@@ -1,2 +1,5 @@
-# friendly-collab-party
-We are using this repo for Github training 
+# Friendly Collab party
+
+We are using this repo for GitHub training 
+
+This is my README file.
